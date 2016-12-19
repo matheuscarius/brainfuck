@@ -5,12 +5,13 @@ Brainfuck interpreter in C++
 * C++ compiler
 
 ## Usage
-Compile `main.cpp` and run as `<program> <file>`
+Compile `main.cpp` inside `src/` folder and run as `<program> <file>`
 
 For example:
 ```
+cd src
 gcc main.cpp -o interpreter  
-./interpreter ex/hello.b
+./interpreter ../ex/hello.b
 ```
 Should generate
 `Hello World!`
