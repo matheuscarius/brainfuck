@@ -1,3 +1,6 @@
+# Executables
+interpreter
+
 # Compiled Object files
 *.slo
 *.lo
