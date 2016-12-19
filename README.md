@@ -10,7 +10,7 @@ Compile `main.cpp` inside `src/` folder and run as `<program> <file>`
 For example:
 ```
 cd src/
-gcc main.cpp -o interpreter  
+g++ main.cpp -o interpreter  
 ./interpreter ../ex/hello.b
 ```
 Should generate
