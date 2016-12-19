@@ -15,3 +15,6 @@ gcc main.cpp -o interpreter
 Should generate
 `Hello World!`
 as its output.
+
+## Brainfuck code examples
+There are some Brainfuck examples in the `ex/` folder
