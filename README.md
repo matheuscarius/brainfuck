@@ -1,4 +1,4 @@
-# Brainfuck
+# Brainfuck Interpreter
 Brainfuck interpreter in C++
 
 ## Requirements
